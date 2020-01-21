@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "e8ad44ee-7536-4901-913c-46e718d56d9f",
+		"_postman_id": "c20ca7a8-e78d-4cb8-8b34-b99e12745788",
 		"name": "udacity-fsnd-udaspicelatte",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -170,7 +170,8 @@
 					},
 					"response": []
 				}
-			]
+			],
+			"protocolProfileBehavior": {}
 		},
 		{
 			"name": "barista",
@@ -353,7 +354,7 @@
 				"bearer": [
 					{
 						"key": "token",
-						"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik4wTkNOVEEzTWpaQ1FUa3lRMEl6TmtORk0wWXhRVFUwT1RFMFFVVkNSRUpDT1RBME1EUXpOUSJ9.eyJpc3MiOiJodHRwczovL3VkYWNpdHktZnNuZC5hdXRoMC5jb20vIiwic3ViIjoiZ29vZ2xlLW9hdXRoMnwxMDY3MTQ4MTQ0MTcwNjk3MTI4OTMiLCJhdWQiOlsiZGV2IiwiaHR0cHM6Ly91ZGFjaXR5LWZzbmQuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTU2MDg5MDE2MCwiZXhwIjoxNTYwODk3MzYwLCJhenAiOiJPSjVwQk9ZSURFa09FVFVmUWo1ajdsSDZFTFcwMkd1MCIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwiLCJwZXJtaXNzaW9ucyI6WyJnZXQ6ZHJpbmtzIiwiZ2V0OmRyaW5rcy1kZXRhaWwiXX0.j9ocW47_exQOkEa10ffh8eijGvrIMxnGRzCmbrXnfaN_8ULsgA7AnWYMtvP8RmPWvT9n8sReWnFuJajUHBUbnBO2GuJ4aM3-WDUBeJT0X_mpGUWs4lxaNTbIkWdiWPTsEiRnP3wT-dU_v3Olw2PB4UMajMIjSH-IdF2Y1CiJIOaM0gV44RGZRyRvj6C2_mOkMfoXxzw-HrVvTRCo1NcUPea5Bs04POni7azx-B7FstP_HLm0dEbbge4XbmovHwlIXknIoI8PbuGXeLBqE2hv8fErKFBuIykxzK0nErH5zSPCrkM-_9smb8TLGAH-E5j1KQb6SHDKtcV_QHnsUYFuXA",
+						"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlJEYzBPVEV3TURaRk0wRkVNVEl6UlRBeU9VSkRNakU0TURnMk1qRkNRVU13TWpJeE1ESTNNUSJ9.eyJpc3MiOiJodHRwczovL2NvZmZlZS1kZXYuZXUuYXV0aDAuY29tLyIsInN1YiI6ImF1dGgwfDVlMjZlYjA2ZjNjNjFhMGYwOGI1YjQ4YiIsImF1ZCI6ImNvZmZlZV9hcGkiLCJpYXQiOjE1Nzk2MTU2NzgsImV4cCI6MTU3OTYyMjg3OCwiYXpwIjoiSFh1VUVLaGl1ZEdiNWtVWVpPRHZCS0JaYTRtWTNQcm0iLCJzY29wZSI6IiIsInBlcm1pc3Npb25zIjpbImdldDpkcmlua3MtZGV0YWlsIl19.rnzovWL2uYkjzj7VrNzfQcysCbc-_TO4Xurcn4pkHtzRH0XksNPZgxFULToAIXg_nq33x2Yui0TES4s9f1azbD0c8P5-sXHCvuOYhpE7FIUVsXnZr0Sh4TE5Hjp3TN2Xhw3n-nBlXK91kZpDABACoI7xJE8gxBYAGjC-K26MyyQhuWc3TmhIZcaC1rzTNtDeGl1K1rRDYBEhPu3jvxiWD29k6zjt1WwEM4Viil4uKsxA6XxDfyJ2ryBAkRxjlzgyXl703OqrQfHob_Oqakk5Ra1fX-S0DaH7VXUnGjWNE4vwxWXdE7dw_-IOvgfUOE2IO7FjGlAlQSWIqyb9KdPzPw",
 						"type": "string"
 					}
 				]
@@ -379,7 +380,8 @@
 						]
 					}
 				}
-			]
+			],
+			"protocolProfileBehavior": {}
 		},
 		{
 			"name": "manager",
@@ -584,7 +586,7 @@
 				"bearer": [
 					{
 						"key": "token",
-						"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik4wTkNOVEEzTWpaQ1FUa3lRMEl6TmtORk0wWXhRVFUwT1RFMFFVVkNSRUpDT1RBME1EUXpOUSJ9.eyJpc3MiOiJodHRwczovL3VkYWNpdHktZnNuZC5hdXRoMC5jb20vIiwic3ViIjoiZ29vZ2xlLW9hdXRoMnwxMDY3MTQ4MTQ0MTcwNjk3MTI4OTMiLCJhdWQiOlsiZGV2IiwiaHR0cHM6Ly91ZGFjaXR5LWZzbmQuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTU2MDg4OTU5NiwiZXhwIjoxNTYwODk2Nzk2LCJhenAiOiJPSjVwQk9ZSURFa09FVFVmUWo1ajdsSDZFTFcwMkd1MCIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwiLCJwZXJtaXNzaW9ucyI6WyJkZWxldGU6ZHJpbmtzIiwiZ2V0OmRyaW5rcyIsImdldDpkcmlua3MtZGV0YWlsIiwicGF0Y2g6ZHJpbmtzIiwicG9zdDpkcmlua3MiXX0.Qk-5FC2X_RUkK00WKARYCKw_877XFuaT5ND3f3ObD9Ly1e1GMfJXhi3McV12binGGCw6x241erIjGB0t8WbWdU3bYpIVD1klZ64DVLQ8Q2LQ2NzB3eFEOgGLL85az1jIDbRiuATIRbbBOWILPJ6h6KR9L5hExklf2zuj3Bnwm7zMRmVpIJmjrUt4bWjtTOguOwJ0IVQsk4PDjGxzwfrUWFCFNDqN_u15JNLxeH21C-QvCpHs3D4Aodeh1qFUuWHfK_Gyfu91AitXPTVZRX9eZbUOVkGT3JMn4sKn9oGaKFTx2E-Y4DmoECG0uWImbX_wiRjx4aTeo7Q7hKSReMToPA",
+						"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlJEYzBPVEV3TURaRk0wRkVNVEl6UlRBeU9VSkRNakU0TURnMk1qRkNRVU13TWpJeE1ESTNNUSJ9.eyJpc3MiOiJodHRwczovL2NvZmZlZS1kZXYuZXUuYXV0aDAuY29tLyIsInN1YiI6Imdvb2dsZS1vYXV0aDJ8MTA5MTQzNTA4OTg1NTA0NDgyNzcxIiwiYXVkIjpbImNvZmZlZV9hcGkiLCJodHRwczovL2NvZmZlZS1kZXYuZXUuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTU3OTYxNTc1NCwiZXhwIjoxNTc5NjIyOTU0LCJhenAiOiJIWHVVRUtoaXVkR2I1a1VZWk9EdkJLQlphNG1ZM1BybSIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwiLCJwZXJtaXNzaW9ucyI6WyJkZWxldGU6ZHJpbmtzIiwiZ2V0OmRyaW5rcy1kZXRhaWwiLCJwYXRjaDpkcmlua3MiLCJwb3N0OmRyaW5rcyJdfQ.kxi6b5c11OkgX4p6gXl8KdZcCetA0rymUawoBz7SgpwgG8rFfFcslYWcF9fTwwbBLb3UVBMcQi_SxnuKqPkXDiL239iNomGKXKf9E7z5lQRFQ8drbBXTKasxRbj4i-GBsvBqYYFFco4T4SXcq7lyKqqlfYUq8F8MZ5pDRBlkpO-do9Ok_PXNbsD9OwMHbhvyMz75XE-3AaGWORDeGh-ieg1P6Y3Oh8YdLrjdhgKIL9MeUcQ1blrbn0WaM-XowM67TeVWEVXbdWNE1YZVNeMnjBoxDqr9pgaEgqYUV7VEU6tEX_CTUnGj6Zfu9cnW1BO-g3q8zw040yTbr56JOy9BVg",
 						"type": "string"
 					}
 				]
@@ -610,7 +612,8 @@
 						]
 					}
 				}
-			]
+			],
+			"protocolProfileBehavior": {}
 		}
 	],
 	"event": [
@@ -642,5 +645,6 @@
 			"value": "localhost:5000",
 			"type": "string"
 		}
-	]
+	],
+	"protocolProfileBehavior": {}
 }
